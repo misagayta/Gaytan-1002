@@ -7,7 +7,7 @@ console.log("hola mundo");
 var t1:number | string=3;
 let t2:number | string=2;
 const t3=444;
-let activo=boolean=false;
+let activo:boolean=false;
 
 
 t1 = 'www';
